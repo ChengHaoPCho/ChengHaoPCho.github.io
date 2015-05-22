@@ -1,10 +1,10 @@
-.wrapperLeft {
+.leftWrapper {
 float: left;
 width:10%;
 background-color:red;
 }
 
-.wrapperRight {
+.rightWrapper {
 float:right;
 width:10%;
 background-color:green;
