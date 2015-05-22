@@ -18,21 +18,21 @@ background-color:blue;
 
 .projectOne {
 float: left;
-width: 31.5%;
+width: 31%;
 margin: 1%;
 background-color:yellow;
 }
 
 .projectThree {
 float: right;
-width: 31.5%;
+width: 31%;
 margin: 1%;
 background-color:purple;
 }
 
 .projectTwo {
 display: inline-block;
-width: 31.5%;
+width: 31%;
 margin: 1%;
 background-color:gray;
 }
