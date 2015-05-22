@@ -22,13 +22,17 @@ a:hover{
 .leftWrapper {
 float: left;
 width:10%;
+height:100%;
 background-color:red;
+position:fixed;
 }
 
 .rightWrapper {
 float:right;
 width:10%;
+height:100%;
 background-color:green;
+position:fixed;
 }
 
 .content {
