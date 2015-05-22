@@ -1,3 +1,18 @@
+.wrapperLeft {
+float: left;
+width:10%;
+}
+
+.wrapperRight {
+float:right;
+width:10%;
+}
+
+.content {
+display: inline-block;
+width:80%;
+}
+
 .projectOne {
 float: left;
 width: 25%;
