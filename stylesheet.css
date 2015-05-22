@@ -6,7 +6,7 @@ ul {
 }
 
 li {
-    float:left;
+    float:right;
 }
 
 a {
@@ -39,21 +39,21 @@ background-color:blue;
 
 .projectOne {
 float: left;
-width: 30%;
-margin: 1%;
+width: 33%;
+margin: 0%;
 background-color:yellow;
 }
 
 .projectThree {
 float: right;
-width: 30%;
-margin: 1%;
+width: 33%;
+margin: 0%;
 background-color:purple;
 }
 
 .projectTwo {
 display: inline-block;
-width: 30%;
-margin: 1%;
+width: 33%;
+margin: 0%;
 background-color:gray;
 }
