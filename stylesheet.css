@@ -1,1 +1,16 @@
-css
+.projectOne {
+float: left;
+width: 25%;
+margin: 1%;
+}
+
+.projectThree {
+float: right;
+width: 25%;
+margin: 1%;
+}
+
+.projectTwo {
+width: 25%;
+margin: 1%;
+}
